@@ -1,0 +1,7 @@
+development:
+  compliance_callback_url: http://example.com
+  compliance_status_url: http://example.com
+
+test:
+  compliance_callback_url: http://example.com/callback
+  compliance_status_url: http://example.com/status
